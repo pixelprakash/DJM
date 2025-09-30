@@ -1,5 +1,5 @@
 import React from "react";
-import myVideo from "/Users/suryaprakash/my-app/media/sample.mp4"; // Place the video in public/media or src/media and adjust path
+import myVideo from "./media/sample.mp4"; // Place the video in public/media or src/media and adjust path
 
 import "./App.css";
 

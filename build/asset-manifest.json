@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DJM/static/css/main.f308332d.css",
+    "main.js": "/DJM/static/js/main.442f84ea.js",
+    "static/media/sample.mp4": "/DJM/static/media/sample.1a0b906d0c323526ca51.mp4",
+    "index.html": "/DJM/index.html",
+    "main.f308332d.css.map": "/DJM/static/css/main.f308332d.css.map",
+    "main.442f84ea.js.map": "/DJM/static/js/main.442f84ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f308332d.css",
+    "static/js/main.442f84ea.js"
+  ]
+}
